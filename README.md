@@ -1,50 +1,44 @@
-<p align="center"><img src="images/yeti-strength-banner.png" alt="YETI STRENGTH: home gym hardware, designed in the USA" width="100%"></p>
+<p align="center">
+  <img src="images/ys-masthead.jpg" alt="YETI STRENGTH. Home gym hardware, designed in the USA." width="100%">
+</p>
 
-<h1 align="center">★ YETI STRENGTH ★</h1>
-<p align="center"><b>Home gym hardware you can print, bolt on and lift with.</b><br>
-Designed in the USA by Schnibbz. Free files, real engineering, built for garage gyms.</p>
+<p align="center">Printable gear for home gyms. The files are free, the loads are published, and every page says what has and hasn't been tested.</p>
 
----
+<br>
 
-## 🏋️ The gear
+<img src="images/ys-tab-the-gear.png" alt="The gear" width="100%">
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Schnibbz/yeti-paw"><img src="https://raw.githubusercontent.com/Schnibbz/yeti-paw/main/images/yeti-paw-hero.png" alt="YETI PAW lateral raise handle" width="100%"></a>
-
-### [YETI PAW](https://github.com/Schnibbz/yeti-paw)
-**Lateral-raise cable handle.** You hold it palm-down and the padded roller rests on your wrist. PETG-CF side plates, a Rogue handle on sealed bearings, and a swivel yoke for a carabiner.
-
-- Rated **75 lb** working load, with the analysis published
-- Bambu projects, STL, STEP, and CNC drawings for aluminium plates
-- Full bill of materials and assembly sheets
-
-**[→ Get the files](https://github.com/Schnibbz/yeti-paw)**
+<a href="https://github.com/Schnibbz/yeti-paw"><img src="images/ys-card-yeti-paw.png" alt="No. 01, YETI PAW lateral raise cable handle, rated 75 lb working load by analysis" width="100%"></a>
+<h3><a href="https://github.com/Schnibbz/yeti-paw">YETI PAW</a></h3>
+A lateral-raise cable handle. Hold it palm-down and the padded roller sits on your wrist. PETG-CF side plates, a Rogue handle on sealed bearings, and a swivel yoke that takes a carabiner.
+<br><br>
+Rated 75 lb working load by analysis, with the analysis published. Comes with Bambu projects, STL, STEP, CNC drawings for aluminum plates, a full bill of materials and assembly sheets.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Schnibbz/wall-control-hook"><img src="https://raw.githubusercontent.com/Schnibbz/wall-control-hook/main/images/wall-control-hook-hero.jpg" alt="Wall Control locking hooks" width="100%"></a>
-
-### [Wall Control Locking Hooks](https://github.com/Schnibbz/wall-control-hook)
-**Storage for your gym wall.** Plug-and-play hooks for Wall Control slotted pegboard that clip in and **lock**. No screws,
-and they won't get knocked off.
-
-- **Standard 2.5"** for handles, straps and cable attachments
-- **Long 3.75"** 🆕 for more gear on one hook
-- **3-Wide Bar Adapter** 🆕 for anything with a 2" barbell-sleeve hole (row handles, landmine adapters)
-
-**[→ Get the files](https://github.com/Schnibbz/wall-control-hook)**
+<a href="https://github.com/Schnibbz/wall-control-hook"><img src="images/ys-card-wall-hooks.png" alt="No. 02, locking hooks for Wall Control pegboard in three sizes" width="100%"></a>
+<h3><a href="https://github.com/Schnibbz/wall-control-hook">Locking Hooks for Wall Control</a></h3>
+Hooks for Wall Control slotted pegboard that clip in and lock. No screws, and a bump won't knock them off.
+<br><br>
+Standard 2.5" for handles, straps and cable attachments. Long 3.75" for more gear on one hook. A 3-wide bar adapter for anything with a 2" barbell-sleeve hole, like row handles and landmine adapters. The long hook and the bar adapter are new in v1.1 and not tested yet.
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🇺🇸 How it's built
+<img src="images/ys-tab-house-rules.png" alt="House rules" width="100%">
 
-- **Engineered, not guessed.** Loads are worked out and published. Designs are prototyped and fitted on real equipment, and
-  new ones are marked 🆕 until they've been tested.
-- **Print-ready.** Each project ships a sliced Bambu file you can print right away, plus STL for any other printer.
-- **Free to make for yourself.** Share it, remix it, credit it. Don't sell it (CC BY-NC-SA unless the repo says otherwise).
+**Loads are worked out and published.** Every design is prototyped and fitted on real equipment, and anything new is marked untested on its page until it has been.
 
-<p align="center"><b>Lift heavy. Build your own. ★ YETI STRENGTH ★</b></p>
+**Every project prints today.** You get a sliced Bambu file ready to go, plus STL for any other printer.
+
+**Make it for yourself.** Share it and remix it with credit. Don't sell it. CC BY-NC-SA 4.0 unless the repo says otherwise.
+
+<br>
+
+<p align="center">
+  <img src="images/ys-footer.png" alt="YETI STRENGTH badge. Schnibbz, designed in the USA." width="100%">
+</p>
