@@ -25,6 +25,17 @@ Hooks for Wall Control slotted pegboard that clip in and lock. No screws, and a 
 Standard 2.5" for handles, straps and cable attachments. Long 3.75" for more gear on one hook. A 3-wide bar adapter for anything with a 2" barbell-sleeve hole, like row handles and landmine adapters. The long hook and the bar adapter are new in v1.1 and not tested yet.
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Schnibbz/yeti-dock"><img src="images/ys-card-yeti-dock.png" alt="No. 03, YETI DOCK rack dock for VOLTRA I, quarter-inch A36 steel, flat or 45 degree" width="100%"></a>
+<h3><a href="https://github.com/Schnibbz/yeti-dock">YETI DOCK</a></h3>
+A laser-cut ¼" steel bracket that hangs a VOLTRA I dock on a 3×3 rack upright with one 1" pin. Bolt the dock on flat, or add the 45° adapter to angle it out.
+<br><br>
+Order-ready DXFs, reference STEPs, PETG pads, and a drill-and-tap guide with the thread math. Calculated for the VOLTRA's 200 lb; not load-tested.
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <br>
