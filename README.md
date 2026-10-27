@@ -44,7 +44,7 @@ Order-ready DXFs, reference STEPs, PETG pads, and a drill-and-tap guide with the
 
 **Loads are worked out and published.** Every design is prototyped and fitted on real equipment, and anything new is marked untested on its page until it has been.
 
-**Every project prints today.** You get a sliced Bambu file ready to go, plus STL for any other printer.
+**Every project is ready to make.** Sliced Bambu files for the printed gear, order-ready DXFs for the steel, plus STL and STEP for anything else.
 
 **Make it for yourself.** Share it and remix it with credit. Don't sell it. CC BY-NC-SA 4.0 unless the repo says otherwise.
 
