@@ -34,6 +34,11 @@ A laser-cut ¼" steel bracket that hangs a VOLTRA I dock on a 3×3 rack upright 
 Order-ready DXFs, reference STEPs, PETG pads, and a drill-and-tap guide with the thread math. Calculated for the VOLTRA's 200 lb; not load-tested.
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/Schnibbz/yeti-knob-cup"><img src="images/ys-card-yeti-knob-cup.png" alt="No. 04, KNOB CUP magnetic mount for a VOLTRA knob, battery bay, four N52 magnets" width="100%"></a>
+<h3><a href="https://github.com/Schnibbz/yeti-knob-cup">KNOB CUP</a></h3>
+A printed cup for the Waveshare 1.8" round knob used as a VOLTRA remote. The knob presses in on crush ribs, a 2000 mAh LiPo sits in the bay underneath, and four N52 magnets stick it to any steel upright.
+<br><br>
+A ready-to-print Bambu file and an STL. The knob fit is tuned; how well it holds on a rack is new in v1.0 and not tested yet.
 </td>
 </tr>
 </table>
